@@ -49,7 +49,7 @@ A: Yes — one-click import of any shared config code.
 
 **Monthly downloads:** 2.8m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/valconfig)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valconfig)
 
 ---
 
